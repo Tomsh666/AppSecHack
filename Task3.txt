@@ -1,3 +1,3 @@
-возможно LFI
-direct travel и inf disclosure 
-XSS и SQL?
+address = event.data
+    document.getElementById('out').innerHTML += `<u>${address}</u>`
+OpenRedirect
