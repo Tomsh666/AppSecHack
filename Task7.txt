@@ -1,4 +1,0 @@
-LFI
-Dir travel
-
-Comand inj code inj
