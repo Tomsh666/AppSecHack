@@ -1,4 +1,0 @@
-XSS
-email = '<?php echo htmlspecialchars($_GET['email']);?>';
-htmlspecialchars
-js код будет виден как текст, но всё равно исполнится
